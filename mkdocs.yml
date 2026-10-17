@@ -1,0 +1,24 @@
+site_name: MQTT for Mere Mortals
+site_description: Plain-language MQTT. Brokers, topics, and publish and subscribe explained with real runs against a Mosquitto broker you install yourself.
+site_url: https://paulsullivan33-dev.github.io/mqtt-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What MQTT Is: what-mqtt-is.md
+  - Installing a Broker: installing-a-broker.md
+  - Your First Messages: your-first-messages.md
+  - Topics and Wildcards: topics-and-wildcards.md
+  - How Sure Is Delivery? QoS: qos.md
+  - Retained Messages and the Last Will: retained-and-last-will.md
+  - Sessions and Queued Messages: sessions-and-queued-messages.md
+  - Keeping It Private: keeping-it-private.md
+  - MQTT from Python: mqtt-from-python.md
+  - Where MQTT Shows Up: where-mqtt-shows-up.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
