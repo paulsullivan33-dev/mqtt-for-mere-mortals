@@ -87,3 +87,19 @@ on one machine, so a second physical device's
 steps are marked **(documented)**, as are systemd
 service management (the lab ran the broker in a
 terminal) and TLS with real certificates.
+
+---
+
+## Part of the series
+
+This guide is one of the [For Mere Mortals](https://paulsullivan33-dev.github.io/mere-mortals/) guides: plain-language guides to the tools programmers and makers use.
+
+Related guides:
+
+- [Node-RED for Mere Mortals](https://paulsullivan33-dev.github.io/nodered-for-mere-mortals/)
+- [Home Assistant for Mere Mortals](https://paulsullivan33-dev.github.io/home-assistant-for-mere-mortals/)
+- [ESPHome for Mere Mortals](https://paulsullivan33-dev.github.io/esphome-for-mere-mortals/)
+
+## License
+
+The writing in this guide is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/mqtt-for-mere-mortals/blob/main/LICENSE). Code examples and lab scripts are licensed under the [MIT License](https://github.com/paulsullivan33-dev/mqtt-for-mere-mortals/blob/main/LICENSE-CODE).
